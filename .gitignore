@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/ConsoleJenkins/v15
+/ConsoleJenkinsTest/obj/Debug
+/ConsoleJenkins/obj/Debug
